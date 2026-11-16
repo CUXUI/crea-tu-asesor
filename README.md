@@ -42,7 +42,7 @@ Pídele: *«Quiero un asesor de [autor]. Tengo estos artículos.»* La skill te 
 
 ### En claude.ai y en Cowork
 
-1. Descarga `crea-tu-asesor.zip` desde **[Releases](https://github.com/ComunidadUXUI/crea-tu-asesor/releases/latest)**.
+1. Descarga `crea-tu-asesor.zip` desde **[Releases](https://github.com/CUXUI/crea-tu-asesor/releases/latest)**.
 2. En Claude, entra a **Personalizar → Skills → + → Subir una skill** y súbelo tal como lo descargaste.
 3. Abre un chat nuevo y pide lo que necesitas.
 
@@ -51,7 +51,7 @@ Guía paso a paso con capturas: **[cómo subir una skill a claude.ai](NOTION_LIN
 ### En Claude Code
 
 ```
-/plugin marketplace add ComunidadUXUI/crea-tu-asesor
+/plugin marketplace add CUXUI/crea-tu-asesor
 /plugin install crea-tu-asesor@crea-tu-asesor
 ```
 
@@ -60,7 +60,7 @@ Después pide lo que necesitas o llama la skill directo: `/crea-tu-asesor`.
 ### En Codex, Cursor, Gemini CLI y otros agentes
 
 ```bash
-npx skills add ComunidadUXUI/crea-tu-asesor
+npx skills add CUXUI/crea-tu-asesor
 ```
 
 Necesita Node.js 22.20 o superior. Si tu agente no instala skills, deja el repositorio en tu carpeta de trabajo y pídele que lea el `SKILL.md` de la carpeta `skills/` y lo siga.
@@ -86,7 +86,7 @@ Consultar a un referente es el primer paso. Aplicar ese criterio a productos rea
 
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/ComunidadUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/ComunidadUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/ComunidadUXUI/excalidraw-ux) · [Modo Fable](https://github.com/ComunidadUXUI/modo-fable) · [Ahorro de tokens](https://github.com/ComunidadUXUI/ahorro-de-tokens)
+**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
 
 ## Licencia
 
