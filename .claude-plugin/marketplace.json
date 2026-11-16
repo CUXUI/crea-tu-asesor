@@ -1,0 +1,27 @@
+{
+  "name": "crea-tu-asesor",
+  "owner": {
+    "name": "Comunidad UX/UI",
+    "url": "https://github.com/ComunidadUXUI"
+  },
+  "metadata": {
+    "description": "Método para destilar a un experto en un asesor que cita fuente y fecha, y dice no sé cuando corresponde.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "crea-tu-asesor",
+      "description": "Método para destilar a un experto en un asesor que cita fuente y fecha, y dice no sé cuando corresponde.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "author": {
+        "name": "Comunidad UX/UI"
+      },
+      "license": "CC-BY-NC-SA-4.0",
+      "skills": [
+        "./skills/crea-tu-asesor"
+      ]
+    }
+  ]
+}
