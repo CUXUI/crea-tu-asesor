@@ -84,9 +84,12 @@ skills/crea-tu-asesor/
 
 Consultar a un referente es el primer paso. Aplicar ese criterio a productos reales y defenderlo frente a un cliente es lo que practicamos en **[Comunidad UX/UI](https://www.skool.com/comunidaduxui/about)**.
 
+<p align="center"><a href="https://www.skool.com/comunidaduxui/about"><img src="docs/cta-comunidad.png" alt="Súmate a Comunidad UX/UI" width="100%"></a></p>
+
 ¿Prefieres empezar por correo? Suscríbete a **[Minuto UX](https://comunidad-uxui.kit.com/fb40f8e711)**, el newsletter de Comunidad UX/UI.
 
-**Más skills de Comunidad UX/UI:** [Auditoría UX con IA](https://github.com/CUXUI/auditoria-ux-con-ia) · [Diseño guiado con IA](https://github.com/CUXUI/diseno-guiado-con-ia) · [Excalidraw UX](https://github.com/CUXUI/excalidraw-ux) · [Modo Fable](https://github.com/CUXUI/modo-fable) · [Ahorro de tokens](https://github.com/CUXUI/ahorro-de-tokens)
+<p align="center"><a href="https://comunidad-uxui.kit.com/fb40f8e711"><img src="docs/cta-minuto-ux.png" alt="Suscríbete a Minuto UX" width="100%"></a></p>
+
 
 ## Licencia
 
